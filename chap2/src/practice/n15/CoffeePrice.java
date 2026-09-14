@@ -1,3 +1,4 @@
+package practice.n15;
 import java.util.Scanner;
 
 public class CoffeePrice {

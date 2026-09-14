@@ -1,3 +1,4 @@
+package practice.n4;
 import java.util.Scanner;
 
 public class ScannerEx {

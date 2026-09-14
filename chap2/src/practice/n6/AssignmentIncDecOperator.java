@@ -1,3 +1,4 @@
+package practice.n6;
 public class AssignmentIncDecOperator {
 	public static void main(String[] args) {
 		int a = 3, b = 3, c = 3;

@@ -1,3 +1,4 @@
+package problem.n1;
 import java.util.Scanner;
 public class ForSample {
 	public static void main(String[] args) {

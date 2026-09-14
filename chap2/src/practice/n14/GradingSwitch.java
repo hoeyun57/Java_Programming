@@ -1,3 +1,4 @@
+package practice.n14;
 import java.util.Scanner;
 
 public class GradingSwitch {

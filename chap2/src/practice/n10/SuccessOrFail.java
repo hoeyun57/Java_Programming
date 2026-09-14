@@ -1,3 +1,4 @@
+package practice.n10;
 import java.util.Scanner;
 
 public class SuccessOrFail {

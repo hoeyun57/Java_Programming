@@ -1,3 +1,4 @@
+package practice.n12;
 import java.util.Scanner;
 
 public class Grading {

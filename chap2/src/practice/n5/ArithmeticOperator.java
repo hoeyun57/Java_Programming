@@ -1,3 +1,4 @@
+package practice.n5;
 import java.util.Scanner;
 
 public class ArithmeticOperator {

@@ -1,3 +1,4 @@
+package problem.n3;
 import java.util.Scanner;
 public class DoWhileSample {
 	public static void main(String[] args) {

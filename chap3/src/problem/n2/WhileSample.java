@@ -1,3 +1,4 @@
+package problem.n2;
 import java.util.Scanner;
 public class WhileSample {
 	public static void main(String[] args) {
