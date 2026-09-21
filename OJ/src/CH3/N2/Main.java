@@ -1,4 +1,4 @@
-package CH4.N2;
+package CH3.N2;
 
 import java.util.Scanner;
 

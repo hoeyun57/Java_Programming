@@ -1,4 +1,4 @@
-package CH4.N3;
+package CH3.N3;
 
 import java.util.Scanner;
 import java.util.InputMismatchException;
